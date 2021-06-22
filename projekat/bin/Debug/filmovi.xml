@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Id_filma>2099586030</Id_filma>
+    <Naziv>Prokletnici</Naziv>
+    <Zanr>Akcija</Zanr>
+    <Duzina_trajanja>153</Duzina_trajanja>
+    <Granica_god>12</Granica_god>
+  </Film>
+  <Film>
+    <Id_filma>754048863</Id_filma>
+    <Naziv>Kum</Naziv>
+    <Zanr>Drama</Zanr>
+    <Duzina_trajanja>180</Duzina_trajanja>
+    <Granica_god>13</Granica_god>
+  </Film>
+  <Film>
+    <Id_filma>2110298994</Id_filma>
+    <Naziv>Mracni vitez</Naziv>
+    <Zanr>Akcija</Zanr>
+    <Duzina_trajanja>164</Duzina_trajanja>
+    <Granica_god>12</Granica_god>
+  </Film>
+  <Film>
+    <Id_filma>850974167</Id_filma>
+    <Naziv>Spektar</Naziv>
+    <Zanr>Akcija</Zanr>
+    <Duzina_trajanja>193</Duzina_trajanja>
+    <Granica_god>15</Granica_god>
+  </Film>
+  <Film>
+    <Id_filma>1395422622</Id_filma>
+    <Naziv>Dzoker</Naziv>
+    <Zanr>Triler</Zanr>
+    <Duzina_trajanja>126</Duzina_trajanja>
+    <Granica_god>15</Granica_god>
+  </Film>
+  <Film>
+    <Id_filma>2036258767</Id_filma>
+    <Naziv>Koko</Naziv>
+    <Zanr>Komedija</Zanr>
+    <Duzina_trajanja>142</Duzina_trajanja>
+    <Granica_god>10</Granica_god>
+  </Film>
+</ArrayOfFilm>

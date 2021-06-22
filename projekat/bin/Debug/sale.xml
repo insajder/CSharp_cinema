@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSala xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sala>
+    <Id_sale>207694955</Id_sale>
+    <Broj_sale>1</Broj_sale>
+    <Ukupno_sedista>15</Ukupno_sedista>
+  </Sala>
+  <Sala>
+    <Id_sale>801321639</Id_sale>
+    <Broj_sale>2</Broj_sale>
+    <Ukupno_sedista>20</Ukupno_sedista>
+  </Sala>
+  <Sala>
+    <Id_sale>2116674977</Id_sale>
+    <Broj_sale>3</Broj_sale>
+    <Ukupno_sedista>40</Ukupno_sedista>
+  </Sala>
+  <Sala>
+    <Id_sale>587899973</Id_sale>
+    <Broj_sale>4</Broj_sale>
+    <Ukupno_sedista>40</Ukupno_sedista>
+  </Sala>
+  <Sala>
+    <Id_sale>1886018382</Id_sale>
+    <Broj_sale>5</Broj_sale>
+    <Ukupno_sedista>50</Ukupno_sedista>
+  </Sala>
+  <Sala>
+    <Id_sale>1054347897</Id_sale>
+    <Broj_sale>6</Broj_sale>
+    <Ukupno_sedista>25</Ukupno_sedista>
+  </Sala>
+</ArrayOfSala>

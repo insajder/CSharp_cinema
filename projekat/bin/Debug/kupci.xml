@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKupac xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kupac>
+    <Email>jelena@gmail.com</Email>
+    <Lozinka>jelena</Lozinka>
+    <Id_kupca>14447405</Id_kupca>
+    <Ime>Jelena</Ime>
+    <Prezime>Ilic</Prezime>
+    <Datum_rodjenja>1993-02-02T00:00:00</Datum_rodjenja>
+    <Telefon>0631234567</Telefon>
+    <Pol>Zenski</Pol>
+  </Kupac>
+  <Kupac>
+    <Email>john@gmail.com</Email>
+    <Lozinka>123456</Lozinka>
+    <Id_kupca>444797097</Id_kupca>
+    <Ime>John</Ime>
+    <Prezime>Smith</Prezime>
+    <Datum_rodjenja>1888-12-30T00:00:00</Datum_rodjenja>
+    <Telefon>011293847</Telefon>
+    <Pol>Muski</Pol>
+  </Kupac>
+</ArrayOfKupac>

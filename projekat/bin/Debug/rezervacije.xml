@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRezervacije xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rezervacije>
+    <Id_rezervacije>628611409</Id_rezervacije>
+    <Id_kupca_rez>14447405</Id_kupca_rez>
+    <Broj_mesta>3</Broj_mesta>
+    <Ukupna_cena>750</Ukupna_cena>
+  </Rezervacije>
+  <Rezervacije>
+    <Id_rezervacije>827264639</Id_rezervacije>
+    <Id_kupca_rez>14447405</Id_kupca_rez>
+    <Broj_mesta>6</Broj_mesta>
+    <Ukupna_cena>600</Ukupna_cena>
+  </Rezervacije>
+  <Rezervacije>
+    <Id_rezervacije>1094523972</Id_rezervacije>
+    <Id_kupca_rez>14447405</Id_kupca_rez>
+    <Broj_mesta>3</Broj_mesta>
+    <Ukupna_cena>500</Ukupna_cena>
+  </Rezervacije>
+  <Rezervacije>
+    <Id_rezervacije>1001541423</Id_rezervacije>
+    <Id_kupca_rez>444797097</Id_kupca_rez>
+    <Broj_mesta>3</Broj_mesta>
+    <Ukupna_cena>1050</Ukupna_cena>
+  </Rezervacije>
+  <Rezervacije>
+    <Id_rezervacije>645026023</Id_rezervacije>
+    <Id_kupca_rez>444797097</Id_kupca_rez>
+    <Broj_mesta>2</Broj_mesta>
+    <Ukupna_cena>300</Ukupna_cena>
+  </Rezervacije>
+  <Rezervacije>
+    <Id_rezervacije>1927281703</Id_rezervacije>
+    <Id_kupca_rez>444797097</Id_kupca_rez>
+    <Broj_mesta>5</Broj_mesta>
+    <Ukupna_cena>1250</Ukupna_cena>
+  </Rezervacije>
+  <Rezervacije>
+    <Id_rezervacije>1449760804</Id_rezervacije>
+    <Id_kupca_rez>444797097</Id_kupca_rez>
+    <Broj_mesta>10</Broj_mesta>
+    <Ukupna_cena>4500</Ukupna_cena>
+  </Rezervacije>
+</ArrayOfRezervacije>
